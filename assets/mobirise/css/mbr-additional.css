@@ -1160,7 +1160,7 @@ pre {
 }
 .cid-qIyxzBjKcO {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1208,8 +1208,8 @@ pre {
   text-align: left;
 }
 .cid-qIyMUOnkdV {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/jumbotron2.jpg");
 }
 .cid-qIyMUOnkdV .media-container-column {
@@ -1261,8 +1261,8 @@ pre {
   }
 }
 .cid-qIyNNe2kRe {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qIyNNe2kRe [class^="socicon-"]:before,
@@ -1284,8 +1284,8 @@ pre {
   }
 }
 .cid-qIyOQ8RaPV {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #f9f295;
 }
 .cid-qIyOQ8RaPV .mbr-section-subtitle {
@@ -1371,8 +1371,8 @@ pre {
   }
 }
 .cid-qIyP1UQnOr {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-qIyP1UQnOr .mbr-section-subtitle {
@@ -1461,8 +1461,8 @@ pre {
   backface-visibility: visible;
 }
 .cid-qIIQNftm9A {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qIIQNftm9A .mbr-section-subtitle {
@@ -1528,4 +1528,7 @@ pre {
 }
 .cid-qIyNBJVREO .media-container-row .row-copirayt {
   word-break: break-word;
+}
+.cid-qIyNBJVREO .media-container-row .mbr-text {
+  text-align: center;
 }
